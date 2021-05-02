@@ -59,6 +59,7 @@ public class RegisterActivity extends AppCompatActivity {
 
         setSupportActionBar(mBinding.toolbarSingUp);
 
+
         final Drawable upArrow = getResources().getDrawable(R.drawable.ic_baseline_arrow_back_24);
         upArrow.setColorFilter(getResources().getColor(R.color.white), PorterDuff.Mode.SRC_ATOP);
         getSupportActionBar().setHomeAsUpIndicator(upArrow);
