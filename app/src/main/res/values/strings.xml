@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">WomanSafety</string>
+    <string name="str_guardian">Guardinan</string>
+    <string name="str_user">User</string>
+    <string name="str_tracking">Tracking</string>
+
+    <string name="str_guardian_name">Guardinan Name</string>
+    <string name="str_guardian_no">Guardinan Mobile No</string>
+
+    <string name="str_user_name">User Name</string>
+    <string name="str_user_no">User Mobile No</string>
+
+    <string name="str_register">Register </string>
+    <string name="str_add_guardian">Add Guardian </string>
+    <string name="str_connect_guardian">Connect Guardian</string>
+
+    <string name="str_add_guardian1">Add Guardian - 1</string>
+    <string name="str_add_guardian2">Add Guardian - 2</string>
+
+    <string name="str_start_tracking"> Start Location Tracking</string>
+    <string name="str_stop_tracking"> Stop Location Tracking</string>
+
+    <string name="str_internet_connection">Please check your internet connection</string>
+    <string name="str_track_mob_no">Enter Tracking Mobile No</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="str_guardian_add">Guardian Added Successfully.</string>
+    <string name="str_user_add">User Added Successfully.</string>
+
+    <string name="str_error_database">Database Error.</string>
+    <string name="str_error_user_not_available">User Not Available.</string>
+    <string name="str_error_no_record">No Tracking Records.</string>
+    <string name="str_error_mobile_length">Enter 10 digit Mobile No.</string>
+    <string name="str_error_all_field">Enter all fields.</string>
+    <string name="str_error_mob_already_register">Mobile number already registered.</string>
+    <string name="str_code_send">Verification code send on XXXXXX</string>
+
+
+    <string name="str_info_start_fetching">Start Fetching Data.</string>
+    <string name="str_info_stop_fetching">Finish Fetching Data.</string>
+    <string name="str_clear_track">Are you sure you want to delete this records?</string>
+    <string name="str_delete_track"> Delete records.</string>
+
+
+</resources>
